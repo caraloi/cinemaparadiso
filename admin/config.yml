@@ -1,14 +1,14 @@
 backend:
   name: github
-  repo: caraloi/italian # Path to your GitHub repository
+  repo: caraloi/cinemaparadiso # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: suspicious-morse-f3c213.netlify.app #Your site on netlify
+  site_domain: cinemaparadiso.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://suspicious-morse-f3c213.netlify.app/
-logo_url: https://suspicious-morse-f3c213.netlify.app/uploads/logo.jpg
+display_url: https://cinemaparadiso.netlify.app
+logo_url: https://cinemaparadiso.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line
 
