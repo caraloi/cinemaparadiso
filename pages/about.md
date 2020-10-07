@@ -19,5 +19,4 @@ This leads me on to typography, which, back in the 1950s, was make-or-break when
 The huge, mass-produced, screen printed posters advertising the latest picture had to be so visually shocking they’d be borderline screaming for the attention of passers’ by. 
 In mid-century Catholic Italy, film posters couldn’t be as sexually suggestive as they can be today, meaning designers had to think up different ways to capture the eyes of the public, including high saturation, risqué composition and the campest typography you’ve ever seen in your life. 
 
-The pieces you’ll find in this blog will be looking into the presentation of these titles as it pertains to the context of the film, the intentions of directors, how materials available may have dictated their overall presentation, as well as a sprinkling of theory into the typographic style that makes Italian film posters so iconic. Andiamo! 
-
+The pieces you’ll find in this blog will be looking into the presentation of these titles as it pertains to the context of the film, the intentions of directors, how materials available may have dictated their overall presentation, as well as a sprinkling of theory into the typographic style that makes Italian film posters so iconic. Andiamo!
