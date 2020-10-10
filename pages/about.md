@@ -4,7 +4,7 @@ title: About
 subtitle: A little backstory to this online ode to Italian Cinema
 permalink: /about/
 date: 2020-10-07T10:18:08.895Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/91enltskowl.jpg
 published: true
 tags: null
 description: null
