@@ -2,7 +2,7 @@
 layout: post
 title: Building The Foundations
 date: 2020-10-12T19:34:31.126Z
-header_feature_image: ../uploads/bf27afbf8d4e798d4f4dac620a783d11.jpg
+header_feature_image: ../uploads/building-the-foundations.png
 caption: ""
 comments: true
 tags:
