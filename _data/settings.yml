@@ -2,10 +2,10 @@ title: Cinema Paradiso
 description: A study into the use of typography for Italian film posters
 header_text: "Typography of Italian Film Posters "
 footer_text: Copyright 2020 Cara Young
-header_feature_image: ../uploads/pages.jpg
+header_feature_image: ../uploads/copy-of-untitled.png
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
-gridlayout: false
+logo: ../uploads/aa.png
+favicon: ../uploads/untitled-design-2-.png
+gridlayout: true
 fixednavbar: false
 upzoom: true
