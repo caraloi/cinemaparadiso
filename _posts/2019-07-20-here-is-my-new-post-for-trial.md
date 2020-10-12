@@ -1,48 +1,41 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: Building The Foundations
+date: 2020-10-12T19:34:31.126Z
+header_feature_image: ""
+caption: ""
+comments: true
+tags:
+  - Graphics
+  - Design
+  - Art
+  - Culture
+  - Cinema
 ---
+I thought my first blog post should be taking you through my creative process of choosing my logo, as well as the decisions involved in making the colour palette and patterns you will see while navigating the site.\
+Italian film posters have such a distinctive feel about them, and for my site branding I am looking to mimic the stylistic techniques used in their manufacture and translate these to simple designs on Adobe InDesign and Canva.\
+I started browsing through some books on the subject, and trust me when I say that finding 3 books on such a niche topic was as much as a surprise to me as it is to you.\
+3 different design elements occurred frequently in the posters I looked at. Let’s look at what these were and what makes them so popular.
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+#### **Primary and Secondary Colours**
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+The most striking element linking all of these posters with one another was definitely the bold colour palette. Primary and secondary colours were often used in this ‘Golden Age’ of Italian cinema in stark contrast to the greys and browns symbolic of Italy’s militaristic wartime environment of the 1930s-40s.\
+The positive connotations of the colours used in these posters would promise a lift in spirits to a potential customer, a welcome offer in a time of distress.\
+I used an eyedropper tool extension on Chrome to identify the colours used most often in Italian film posters and mixed each colour category together to create a palette for use sitewide. 
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+![](../uploads/holly-s-greenery.png)
 
+#### Bold Lettering
 
-![Here is a book](../uploads/pages.jpg)
+These film posters were typically produced either by lithographic press or off-set printing, two techniques allowing mass production for the widespread screenings across Italy.\
+Both of these techniques required fairly simplified designs in order to be legible, especially the text. This meant that most posters would contain bold lettering, usually in a brighter yellow colour, in order to stand out against the background.
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+![](../uploads/copy-of-untitled.png)
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+#### Impressionist Style
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+It goes without saying that these posters were created in a time before photoshop and InDesign. Even colour photography wasn’t in widespread use yet. This meant artists were commissioned to paint pieces that subtly expressed plot, feel and genre in a way that would entice the audience to find out more. Clumsy, impressionist brush strokes brought these paintings to life, allowing the bold, stagnant lettering to stand out even more.
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
+![](../uploads/brush.png)
 
-## Here is a an image
-
-![Wooden Type](../uploads/log.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+I intend to implement all of these stylistic techniques to create a site that mimics the feel of these charming and passionate posters.
