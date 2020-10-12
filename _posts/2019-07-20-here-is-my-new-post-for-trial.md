@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building The Foundations
+title: .
 date: 2020-10-12T19:34:31.126Z
 header_feature_image: ../uploads/copy-of-copy-of-untitled-1-.png
 caption: ""
