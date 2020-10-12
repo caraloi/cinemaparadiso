@@ -12,6 +12,8 @@ show: true
 ---
 Wherever we have lived as a family over the years, my dad’s home office has had three constants. A snow globe of a leprechaun my mum brought back from Ireland, the dog beds of Max, Sam, Charlie, Louie or Remy (depending on the year) and big framed pictures of old Italian film posters on the walls. Now, while these items may not seem particularly interesting, they have always been surrounded by a rotation of obscure books, one-of-a-kind vinyl records and a collection of over 2,000 DVDs (yes, I counted.) 
 
+![](../uploads/untitled-design-1-.png)
+
 This unofficial shrine to arts and culture made sick days home from school absolutely captivating for my 18 years of an undiagnosed attention disorder. My tendency to hyper fixate on one subject and my devastating inability to learn a second language cumulated into a fascination with foreign cinema. There’s something strangely romantic about having no clue what’s going on in a film (especially if we’re talking Fellini), but feeling what they feel through a combination of paratext and mis-en-scene.
 
 This leads me on to typography, which, back in the 1950s, was make-or-break when it came to drawing in an audience. This was a time when colour film was not yet widely available, not everyone was lucky enough to have a TV in their home, and the Blade Runner-esque billboard screens we see at the bus stop would’ve been doused in so much Holy Water they’d short circuit. 
