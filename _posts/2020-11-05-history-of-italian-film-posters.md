@@ -4,17 +4,13 @@ title: History of Italian Film Posters
 date: 2020-10-22T15:30:38.555Z
 comments: true
 ---
-
-
-**A brief history of the Italian Film Poster**
-
 The history of cinema as a whole is drenched in the influence of Italian artistry. One of cinema’s earliest pioneers was director and inventor Filoteo Alberini, patenting the kinetograph allowing moving images to be projected to multiple people at once. <https://ilglobo.com/news/alberinis-kinetograph-33144/>
 
 Countries like France and Italy were trailblazers in the development of motion pictures, but the technology was not yet advanced enough to include sound or colour.
 
 On one hand, this was beneficial to studios, as silent films are a universal language. However, without televisions in every home, a different angle was required in getting the public excited for a new release.
 
-Enter the film poster.
+##### Enter the film poster.
 
 Artists were called upon to portray the genre and feel of a film in the form of large works of art, which would be mass produced and plastered over buildings in different countries. These artists had to develop signature ways of being universally understood through saturated colours, passionate brushstrokes and cartoonish typography, making them easily translated for consumption by the masses.
 
