@@ -1,7 +1,8 @@
 ---
 layout: post
-title: History of Italian Film Posters
+title: Why are film posters so important?
 date: 2020-10-22T15:30:38.555Z
+header_feature_image: ../uploads/a-little-bit-of-context.jpg
 comments: true
 ---
 The history of cinema as a whole is drenched in the influence of Italian artistry. One of cinema’s earliest pioneers was director and inventor Filoteo Alberini, patenting the kinetograph allowing moving images to be projected to multiple people at once. <https://ilglobo.com/news/alberinis-kinetograph-33144/>
