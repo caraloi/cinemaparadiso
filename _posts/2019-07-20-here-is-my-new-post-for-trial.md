@@ -2,7 +2,7 @@
 layout: post
 title: Building The Foundations
 date: 2020-10-12T19:34:31.126Z
-header_feature_image: ../uploads/untitled-design-4-.png
+header_feature_image: ../uploads/copy-of-a-little-bit-of-context-2-.jpg
 caption: ""
 comments: true
 tags:
@@ -36,12 +36,22 @@ These film posters were typically produced either by lithographic press or off-s
 
 Both of these techniques required fairly simplified designs in order to be legible, especially the text. This meant that most posters would contain bold lettering, usually in a brighter yellow colour, in order to stand out against the background.
 
-![](../uploads/copy-of-untitled.png)
+![](../uploads/copy-of-a-little-bit-of-context-1-.jpg)
 
 #### Impressionist Style
 
 It goes without saying that these posters were created in a time before photoshop and InDesign. Even colour photography wasn’t in widespread use yet. This meant artists were commissioned to paint pieces that subtly expressed plot, feel and genre in a way that would entice the audience to find out more. Clumsy, impressionist brush strokes brought these paintings to life, allowing the bold, stagnant lettering to stand out even more.
 
-![](../uploads/brush.png)
+![](../uploads/copy-of-a-little-bit-of-context.jpg)
 
-I intend to implement all of these stylistic techniques to create a site that mimics the feel of these charming and passionate posters.
+While these classic design elements suit Italian film posters perfectly, I wanted to adapt these to better suit my personal style and the modern format of a blog.
+
+I was intrigued by the incorporation of classic and modern techniques used to create these posters and designed a logo that I thought combined modern and classic, as well as the other design elements I already discussed.\
+\
+This led to the creation of my logo:
+
+![](../uploads/untitled-design-4-.png)
+
+And the motif of block colours and line drawings I will be using site wide.
+
+Happy reading!
