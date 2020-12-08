@@ -50,10 +50,8 @@ I was intrigued by the incorporation of classic and modern techniques used to cr
 \
 This led to the creation of my logo:
 
- 
-
 ![](../uploads/untitled-design-4-.png)
 
 And the motif of block colours and line drawings I will be using site wide.
 
-Happy reading![](https://cinemaparadiso.netlify.app/uploads/brush.png)
+Happy reading!
