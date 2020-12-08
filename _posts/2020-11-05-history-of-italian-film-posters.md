@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of Italian Film Posters
+title: Why are film posters so important?
 date: 2020-10-22T15:30:38.555Z
 header_feature_image: ../uploads/a-little-bit-of-context.jpg
 comments: true
