@@ -1,7 +1,8 @@
 ---
 layout: post
-title: DEFINITIVE RANKING
+title: RANKING POSTERS
 date: 2020-12-09T14:27:27.362Z
+header_feature_image: ../uploads/copy-of-a-little-bit-of-context.jpg
 caption: PART  ONE
 comments: true
 tags:
