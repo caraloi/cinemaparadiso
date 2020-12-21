@@ -2,7 +2,7 @@
 layout: post
 title: RANKING POSTERS
 date: 2020-12-09T14:39:09.101Z
-header_feature_image: ../uploads/copy-of-a-little-bit-of-context.jpg
+header_feature_image: ../uploads/copy-of-a-little-bit-of-context-3-.jpg
 caption: PART TWO
 comments: true
 tags:
