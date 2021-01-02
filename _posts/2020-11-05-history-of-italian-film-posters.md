@@ -2,7 +2,7 @@
 layout: post
 title: Why are film posters so important?
 date: 2020-10-22T15:30:38.555Z
-header_feature_image: ../uploads/a-little-bit-of-context.jpg
+header_feature_image: ../uploads/untitled-design-6-.jpg
 comments: true
 tags: null
 ---
