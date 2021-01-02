@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Info
 subtitle: A little backstory to this online ode to Italian Cinema
 permalink: /about/
 date: 2020-10-07T10:18:08.895Z
